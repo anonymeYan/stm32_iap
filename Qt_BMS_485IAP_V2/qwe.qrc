@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/8760c5b68585024ac9de06533172ee46.jpg</file>
+        <file>src/add.png</file>
+        <file>src/checkbox.png</file>
+        <file>src/cleanport.png</file>
+        <file>src/clearbytes.png</file>
+        <file>src/connect2.png</file>
+        <file>src/darkorange.qss</file>
+        <file>src/down_arrow.png</file>
+        <file>src/edit-clear.png</file>
+        <file>src/emblem-shared.png</file>
+        <file>src/exit.png</file>
+        <file>src/handle.png</file>
+        <file>src/header.bmp</file>
+        <file>src/lcd.bmp</file>
+        <file>src/linuxico.bmp</file>
+        <file>src/loadfile.png</file>
+        <file>src/logo.png</file>
+        <file>src/lpt-plug.png</file>
+        <file>src/mesage.png</file>
+        <file>src/open.png</file>
+        <file>src/pause.png</file>
+        <file>src/reload.png</file>
+        <file>src/save.png</file>
+        <file>src/send.png</file>
+        <file>src/stop.png</file>
+        <file>src/time.png</file>
+        <file>src/wincom.ICO</file>
+        <file>src/write2file.png</file>
+        <file>src/yafeilinux.PNG</file>
+        <file>Ubuntu.qss</file>
+    </qresource>
+</RCC>
